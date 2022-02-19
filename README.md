@@ -2,7 +2,7 @@
 
 Class 12 Prompts
 
-##What's the difference between and HTML Element and and HTML Tag?
+## What's the difference between and HTML Element and and HTML Tag?
 
 Example would be:  `<h1>Hello World</h1>`
 The HTML Tags are just the starting and end tags of `<h1></h1>`, while the HTML element is the tags plus its content `<h1>Hello World</h1>` 
