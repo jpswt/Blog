@@ -13,14 +13,14 @@ The HTML Tags are just the starting and end tags of `<h1></h1>`, while the HTML 
 Let's say I want to style a paragraph to have a font color of green, this can be done in the following ways:
 
   a. It can be linked inline within the html code using the <style> attribute.  An example would be:
-      "<p style="color:green">A red paragraph.</p>"
+      `<p style="color:green">A red paragraph.</p>`
   
   b. It can be linked internally using a <style> element in the <head> section:
-      <head>
+      `<head>
       <style>
         p {color: green;}
       </style>
-      </head>
+      </head>`
   
   C. It can be linked externally via an .css stylesheet:
       <link rel="stylesheet" href="styles.css">
