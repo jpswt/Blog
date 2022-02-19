@@ -1,6 +1,4 @@
-# Blog
-
-Class 12 Prompts
+# Class 12 Prompts
 
 ## What's the difference between and HTML Element and and HTML Tag?
 
