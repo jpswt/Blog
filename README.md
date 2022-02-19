@@ -9,7 +9,7 @@ The HTML Tags are just the starting and end tags of `<h1></h1>`, while the HTML 
 
 
 
-**Explain, to someone you know, the 3 ways to link/use CSS in an HTML file to style a web page.**
+## Explain, to someone you know, the 3 ways to link/use CSS in an HTML file to style a web page.
 
 Let's say I want to style a paragraph to have a font color of green, this can be done in the following ways:
 
