@@ -22,7 +22,7 @@ Let's say I want to style a paragraph to have a font color of green, this can be
         </head>`
   
   C. It can be linked externally via an .css stylesheet:
-      <link rel="stylesheet" href="styles.css">
+      `<link rel="stylesheet" href="styles.css">`
   
   -----
   
