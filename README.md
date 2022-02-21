@@ -25,8 +25,7 @@ Let's say I want to style a paragraph to have a font color of green, this can be
       `<link rel="stylesheet" href="styles.css">`
   
   -----
-  
-  Blog 16
+ 
   
   
 
